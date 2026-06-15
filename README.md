@@ -1,4 +1,4 @@
-# DSA Solutions in Java 🚀
+# DSA Solutions in Java 
 
 ## About
 DSA problem solutions in Java for 
@@ -6,7 +6,7 @@ placement preparation.
 
 ## Topics Covered
 
-### Arrays ✅ Complete (22/22)
+### Arrays  Complete (22/22)
 - Two Sum, Missing Number
 - Kadane's Algorithm
 - Dutch National Flag
@@ -14,14 +14,14 @@ placement preparation.
 - Merge Overlapping Intervals
 - And more...
 
-### Strings ⏳ In Progress
+### Strings  In Progress
 - Reverse String
 - Palindrome Check
 - Anagram
 - Roman to Integer
 
-### Stack & Queue 🔜 Coming Soon
-### LinkedList 🔜 Coming Soon
+### Stack & Queue -Coming Soon
+### LinkedList - Coming Soon
 
 ## Tech Stack
 - Language: Java
